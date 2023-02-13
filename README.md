@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS y Mysql**
 
-- 📫 How to reach me **jes_salomon5313@live.com**
+- 📫 How to reach me **gc13dev@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
