@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Jesse Salomon</h1>
 <h3 align="center">Soy un programador apasionado de Mexico</h3>
 
-- 💬 Ask me about **HTML, CSS, JS y Mysql**
+- 💬 Ask me about **REACT y springboot**
 
 - 📫 How to reach me **gc13dev@hotmail.com**
 
